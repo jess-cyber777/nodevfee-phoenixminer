@@ -1,9 +1,9 @@
-## ethereum-nodevfee
-Ethereum NoDevFee for PhoenixMiner (Redirector/Interceptor)
+## DevFeePull
+DevFeePull is NoDevFee program for PhoenixMiner (Redirector/Interceptor)
 
 ### Changelog:
 
-- **v0.1** - [NoDevFee v0.1](https://github.com/jess-cyber777/ethereum-nodevfee/releases/download/v0.1/ETH-NoDevFee_v0.1.zip)
+- **v0.1** - [DevFeePull v0.1](https://github.com/jess-cyber777/ethereum-nodevfee/releases/download/v0.1/DevFeePull_v0.1.zip)
   * Support for PhoenixMiner up to 5.6d.
   
 ### Functionalities:
@@ -13,7 +13,7 @@ Ethereum NoDevFee for PhoenixMiner (Redirector/Interceptor)
 
 ### How to use:
 
-- Download [NoDevFee v0.1](https://github.com/jess-cyber777/ethereum-nodevfee/releases/download/v0.1/ETH-NoDevFee_v0.1.zip)
+- Download [DevFeePull v0.1](https://github.com/jess-cyber777/ethereum-nodevfee/releases/download/v0.1/DevFeePull_v0.1.zip)
 - Simply run `divert.exe` and then launch `PhoenixMiner` as usual
 
 You'll find a message of success in intercepting devfee mining periods:
