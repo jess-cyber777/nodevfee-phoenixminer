@@ -58,6 +58,3 @@ NET Framework 4.7.2 Runtime
 ### Credits:
 
 - WinDivert - Windows Packet Divert [**basil00**](https://github.com/basil00/Divert) 
-
-### Donate:
-#### ETH: `0x144C115556788e7435E8c6ddC7d1524Ff01F9448`
